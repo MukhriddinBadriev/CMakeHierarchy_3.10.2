@@ -50,7 +50,77 @@ cmake_ninja_workdir = D$:\рабочий$ стол\C++\Netology\ДЗ$ Netology\�
 build cmake_object_order_depends_target_my_second_cmake_project.exe: phony || CMakeFiles\my_second_cmake_project.exe.dir
 
 build CMakeFiles\my_second_cmake_project.exe.dir\CMakeHierarchy.cpp.obj: CXX_COMPILER__my_second_cmake_project.2eexe_Debug D$:\рабочий$ стол\C++\Netology\ДЗ$ Netology\Блок$ №3\Lesson$ 10\my_second_cmake_project\CMakeHierarchy.cpp || cmake_object_order_depends_target_my_second_cmake_project.exe
-  FLAGS = /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MDd /Zi /Ob0 /Od /RTC1 -MDd
+  FLAGS = /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MDd /Zi /Ob0 /Od /RTC1
+  OBJECT_DIR = CMakeFiles\my_second_cmake_project.exe.dir
+  OBJECT_FILE_DIR = CMakeFiles\my_second_cmake_project.exe.dir
+  TARGET_COMPILE_PDB = CMakeFiles\my_second_cmake_project.exe.dir\
+  TARGET_PDB = my_second_cmake_project.exe.pdb
+
+build CMakeFiles\my_second_cmake_project.exe.dir\Figure.cpp.obj: CXX_COMPILER__my_second_cmake_project.2eexe_Debug D$:\рабочий$ стол\C++\Netology\ДЗ$ Netology\Блок$ №3\Lesson$ 10\my_second_cmake_project\Figure.cpp || cmake_object_order_depends_target_my_second_cmake_project.exe
+  FLAGS = /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MDd /Zi /Ob0 /Od /RTC1
+  OBJECT_DIR = CMakeFiles\my_second_cmake_project.exe.dir
+  OBJECT_FILE_DIR = CMakeFiles\my_second_cmake_project.exe.dir
+  TARGET_COMPILE_PDB = CMakeFiles\my_second_cmake_project.exe.dir\
+  TARGET_PDB = my_second_cmake_project.exe.pdb
+
+build CMakeFiles\my_second_cmake_project.exe.dir\Triangle.cpp.obj: CXX_COMPILER__my_second_cmake_project.2eexe_Debug D$:\рабочий$ стол\C++\Netology\ДЗ$ Netology\Блок$ №3\Lesson$ 10\my_second_cmake_project\Triangle.cpp || cmake_object_order_depends_target_my_second_cmake_project.exe
+  FLAGS = /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MDd /Zi /Ob0 /Od /RTC1
+  OBJECT_DIR = CMakeFiles\my_second_cmake_project.exe.dir
+  OBJECT_FILE_DIR = CMakeFiles\my_second_cmake_project.exe.dir
+  TARGET_COMPILE_PDB = CMakeFiles\my_second_cmake_project.exe.dir\
+  TARGET_PDB = my_second_cmake_project.exe.pdb
+
+build CMakeFiles\my_second_cmake_project.exe.dir\Quadrangle.cpp.obj: CXX_COMPILER__my_second_cmake_project.2eexe_Debug D$:\рабочий$ стол\C++\Netology\ДЗ$ Netology\Блок$ №3\Lesson$ 10\my_second_cmake_project\Quadrangle.cpp || cmake_object_order_depends_target_my_second_cmake_project.exe
+  FLAGS = /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MDd /Zi /Ob0 /Od /RTC1
+  OBJECT_DIR = CMakeFiles\my_second_cmake_project.exe.dir
+  OBJECT_FILE_DIR = CMakeFiles\my_second_cmake_project.exe.dir
+  TARGET_COMPILE_PDB = CMakeFiles\my_second_cmake_project.exe.dir\
+  TARGET_PDB = my_second_cmake_project.exe.pdb
+
+build CMakeFiles\my_second_cmake_project.exe.dir\Right_Triangle.cpp.obj: CXX_COMPILER__my_second_cmake_project.2eexe_Debug D$:\рабочий$ стол\C++\Netology\ДЗ$ Netology\Блок$ №3\Lesson$ 10\my_second_cmake_project\Right_Triangle.cpp || cmake_object_order_depends_target_my_second_cmake_project.exe
+  FLAGS = /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MDd /Zi /Ob0 /Od /RTC1
+  OBJECT_DIR = CMakeFiles\my_second_cmake_project.exe.dir
+  OBJECT_FILE_DIR = CMakeFiles\my_second_cmake_project.exe.dir
+  TARGET_COMPILE_PDB = CMakeFiles\my_second_cmake_project.exe.dir\
+  TARGET_PDB = my_second_cmake_project.exe.pdb
+
+build CMakeFiles\my_second_cmake_project.exe.dir\Isosceles_Triangle.cpp.obj: CXX_COMPILER__my_second_cmake_project.2eexe_Debug D$:\рабочий$ стол\C++\Netology\ДЗ$ Netology\Блок$ №3\Lesson$ 10\my_second_cmake_project\Isosceles_Triangle.cpp || cmake_object_order_depends_target_my_second_cmake_project.exe
+  FLAGS = /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MDd /Zi /Ob0 /Od /RTC1
+  OBJECT_DIR = CMakeFiles\my_second_cmake_project.exe.dir
+  OBJECT_FILE_DIR = CMakeFiles\my_second_cmake_project.exe.dir
+  TARGET_COMPILE_PDB = CMakeFiles\my_second_cmake_project.exe.dir\
+  TARGET_PDB = my_second_cmake_project.exe.pdb
+
+build CMakeFiles\my_second_cmake_project.exe.dir\Equilateral_Triangle.cpp.obj: CXX_COMPILER__my_second_cmake_project.2eexe_Debug D$:\рабочий$ стол\C++\Netology\ДЗ$ Netology\Блок$ №3\Lesson$ 10\my_second_cmake_project\Equilateral_Triangle.cpp || cmake_object_order_depends_target_my_second_cmake_project.exe
+  FLAGS = /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MDd /Zi /Ob0 /Od /RTC1
+  OBJECT_DIR = CMakeFiles\my_second_cmake_project.exe.dir
+  OBJECT_FILE_DIR = CMakeFiles\my_second_cmake_project.exe.dir
+  TARGET_COMPILE_PDB = CMakeFiles\my_second_cmake_project.exe.dir\
+  TARGET_PDB = my_second_cmake_project.exe.pdb
+
+build CMakeFiles\my_second_cmake_project.exe.dir\Parallelogram.cpp.obj: CXX_COMPILER__my_second_cmake_project.2eexe_Debug D$:\рабочий$ стол\C++\Netology\ДЗ$ Netology\Блок$ №3\Lesson$ 10\my_second_cmake_project\Parallelogram.cpp || cmake_object_order_depends_target_my_second_cmake_project.exe
+  FLAGS = /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MDd /Zi /Ob0 /Od /RTC1
+  OBJECT_DIR = CMakeFiles\my_second_cmake_project.exe.dir
+  OBJECT_FILE_DIR = CMakeFiles\my_second_cmake_project.exe.dir
+  TARGET_COMPILE_PDB = CMakeFiles\my_second_cmake_project.exe.dir\
+  TARGET_PDB = my_second_cmake_project.exe.pdb
+
+build CMakeFiles\my_second_cmake_project.exe.dir\Rectangle.cpp.obj: CXX_COMPILER__my_second_cmake_project.2eexe_Debug D$:\рабочий$ стол\C++\Netology\ДЗ$ Netology\Блок$ №3\Lesson$ 10\my_second_cmake_project\Rectangle.cpp || cmake_object_order_depends_target_my_second_cmake_project.exe
+  FLAGS = /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MDd /Zi /Ob0 /Od /RTC1
+  OBJECT_DIR = CMakeFiles\my_second_cmake_project.exe.dir
+  OBJECT_FILE_DIR = CMakeFiles\my_second_cmake_project.exe.dir
+  TARGET_COMPILE_PDB = CMakeFiles\my_second_cmake_project.exe.dir\
+  TARGET_PDB = my_second_cmake_project.exe.pdb
+
+build CMakeFiles\my_second_cmake_project.exe.dir\Rhombus.cpp.obj: CXX_COMPILER__my_second_cmake_project.2eexe_Debug D$:\рабочий$ стол\C++\Netology\ДЗ$ Netology\Блок$ №3\Lesson$ 10\my_second_cmake_project\Rhombus.cpp || cmake_object_order_depends_target_my_second_cmake_project.exe
+  FLAGS = /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MDd /Zi /Ob0 /Od /RTC1
+  OBJECT_DIR = CMakeFiles\my_second_cmake_project.exe.dir
+  OBJECT_FILE_DIR = CMakeFiles\my_second_cmake_project.exe.dir
+  TARGET_COMPILE_PDB = CMakeFiles\my_second_cmake_project.exe.dir\
+  TARGET_PDB = my_second_cmake_project.exe.pdb
+
+build CMakeFiles\my_second_cmake_project.exe.dir\Square.cpp.obj: CXX_COMPILER__my_second_cmake_project.2eexe_Debug D$:\рабочий$ стол\C++\Netology\ДЗ$ Netology\Блок$ №3\Lesson$ 10\my_second_cmake_project\Square.cpp || cmake_object_order_depends_target_my_second_cmake_project.exe
+  FLAGS = /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MDd /Zi /Ob0 /Od /RTC1
   OBJECT_DIR = CMakeFiles\my_second_cmake_project.exe.dir
   OBJECT_FILE_DIR = CMakeFiles\my_second_cmake_project.exe.dir
   TARGET_COMPILE_PDB = CMakeFiles\my_second_cmake_project.exe.dir\
@@ -64,8 +134,8 @@ build CMakeFiles\my_second_cmake_project.exe.dir\CMakeHierarchy.cpp.obj: CXX_COM
 #############################################
 # Link the executable my_second_cmake_project.exe.exe
 
-build my_second_cmake_project.exe.exe: CXX_EXECUTABLE_LINKER__my_second_cmake_project.2eexe_Debug CMakeFiles\my_second_cmake_project.exe.dir\CMakeHierarchy.cpp.obj
-  FLAGS = /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MDd /Zi /Ob0 /Od /RTC1 -MDd
+build my_second_cmake_project.exe.exe: CXX_EXECUTABLE_LINKER__my_second_cmake_project.2eexe_Debug CMakeFiles\my_second_cmake_project.exe.dir\CMakeHierarchy.cpp.obj CMakeFiles\my_second_cmake_project.exe.dir\Figure.cpp.obj CMakeFiles\my_second_cmake_project.exe.dir\Triangle.cpp.obj CMakeFiles\my_second_cmake_project.exe.dir\Quadrangle.cpp.obj CMakeFiles\my_second_cmake_project.exe.dir\Right_Triangle.cpp.obj CMakeFiles\my_second_cmake_project.exe.dir\Isosceles_Triangle.cpp.obj CMakeFiles\my_second_cmake_project.exe.dir\Equilateral_Triangle.cpp.obj CMakeFiles\my_second_cmake_project.exe.dir\Parallelogram.cpp.obj CMakeFiles\my_second_cmake_project.exe.dir\Rectangle.cpp.obj CMakeFiles\my_second_cmake_project.exe.dir\Rhombus.cpp.obj CMakeFiles\my_second_cmake_project.exe.dir\Square.cpp.obj
+  FLAGS = /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MDd /Zi /Ob0 /Od /RTC1
   LINK_FLAGS = /machine:x64 /debug /INCREMENTAL /subsystem:console
   LINK_LIBRARIES = kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib
   OBJECT_DIR = CMakeFiles\my_second_cmake_project.exe.dir
